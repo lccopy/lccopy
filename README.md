@@ -1,67 +1,82 @@
+<div align="center">
 
-<h1>Hi There</a>  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px"></h1>
+# Hi there! 👋
 
-  
+</div>
 
-I'm a **Data Scientist**, graduated in **2023** from **Le Wagon** in **Data Science** stream.
+I'm a **Data Scientist** who graduated in **2023** from **Le Wagon** with a specialization in **Data Science**. Here's a glimpse of my skill set:
 
-  
+---
 
-## Skill Set 
+### 🛠 Programming Languages
 
+<div align="center">
 
-**Programming Languages**
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="40px"/>
 
-  
+</div>
 
-<img  title="Python"  alt="Python"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"  />|<img  alt="JS"  title="JavaScript"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img  title="html"  alt="html"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img  title="html"  alt="html"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-__________________________________________________________________________________
+---
 
+### 📚 Libraries and Frameworks
 
-  
+<div align="center">
 
-**Libraries and Frameworks**
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40px"/> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="Keras" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="Scikit Learn" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" alt="OpenCV" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="Flask" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="Django" width="40px"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40px"/>
 
-  
+</div>
 
-<img  title="TensorFlow"  alt="TensorFlow"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img  title="Keras"  alt="Keras"  width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img  title="Scikit-Learn"  alt="Scikit Learn"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img  title="OpenCV"  alt="OpenCV"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img  title="Docker"  alt="Docker"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"><img  title="Flask"  alt="Flask"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img  title="Django"  alt="Django"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img  title="Selenium"  alt="Selenium"  width="40px"  src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
-__________________________________________________________________________________
+---
 
-  
+### ☁️ Cloud Platforms
 
-**Cloud**
+<div align="center">
 
-  
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png" alt="Google Cloud" width="40px"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40px"/>
 
-<img  title="Azure"  alt="Azure"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png">|<img  title="Heroku"  alt="Heroku"  width="40px"  src="https://img.icons8.com/color/48/000000/heroku.png">
+</div>
 
-__________________________________________________________________________________
+---
 
+### 📂 Databases
 
-  
+<div align="center">
 
-**Databases**
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" width="40px"/>
 
-  
+</div>
 
-<img  title="SQL"  alt="SQL"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img  title="MongoDB"  alt="MongoDB"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"><br>
+---
 
-__________________________________________________________________________________
+### 🧰 Tools & Utilities
 
+<div align="center">
 
-  
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40px"/> &nbsp;&nbsp;
+<img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="ZSH" width="40px"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" width="40px"/>
 
-**Tools**
+</div>
 
-  
+---
 
-<img  title="Ubuntu"  alt="Ubuntu"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img  title="ZSH"  alt="ZSH"  width="40px"  src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img  title="VS Code"  alt="VS Code"  width="40px"  src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img  title="git"  alt="git"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img  title="Jupyter Notebook"  alt="Jupyter"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+<div align="center">
 
+🌌 Dive into my [GitHub repositories](https://github.com/lccopy) to explore the exciting projects I've crafted!
 
-
-<br>
-
-  
-
-  
+</div>
 
