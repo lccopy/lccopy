@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there! 👋
+# Hello! 👋
 
 </div>
 
-I'm a **Data Scientist** who graduated in **2023** from **Le Wagon** in **Data Science**. Here's a glimpse of my skill set:
+I'm a **Data Scientist** who graduated in **2023** from **Le Wagon**. Here's a glimpse of my skill set:
 
 ---
 
