@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hello! 👋
+# Welcome.
 
 </div>
 
-I'm a **Data Scientist** who graduated in **2023** from **Le Wagon**. Here's a glimpse of my skill set:
+I'm a **Data Scientist** and **AI Developer**. Here's a glimpse of my skill set:
 
 ---
 
@@ -78,14 +78,6 @@ I'm a **Data Scientist** who graduated in **2023** from **Le Wagon**. Here's a g
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="Windows" width="40px"/> &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" alt="macOS" width="40px"/>
 
-
-</div>
-
----
-
-<div align="center">
-
-🌌 Dive into my [GitHub repositories](https://github.com/lccopy) to explore the exciting projects I've crafted!
 
 </div>
 
